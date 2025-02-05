@@ -1,0 +1,1 @@
+This repository demonstrates a common C++ error: accessing a vector element beyond its bounds.  The `bug.cpp` file contains the erroneous code, which leads to undefined behavior. The correct solution is provided in `bugSolution.cpp`, illustrating how to safely iterate and access elements within the vector's valid index range.
